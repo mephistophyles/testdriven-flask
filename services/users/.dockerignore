@@ -1,0 +1,5 @@
+venv37
+.dockerignore
+Dockerfile
+Dockerfile-prod
+services/users/htmlcov

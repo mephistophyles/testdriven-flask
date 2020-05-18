@@ -1,0 +1,8 @@
+.aws/
+.idea/
+
+testdriven_key_pair.pem
+
+services/users/venv37/
+services/users/node_modules
+services/users/htmlcov
