@@ -1,5 +1,6 @@
 .aws/
 .idea/
+*.pyc
 
 testdriven_key_pair.pem
 
